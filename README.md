@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate full-stack dev from 🇵🇷</h3>
 
-- 📫 How to reach me **byanemanuel@gmail.com**
-
-- ⚡ Fun fact **I wanted to be a heart surgeon**
-
 <p align="left">
 <a href="https://linkedin.com/in/brvangarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brvangarcia" height="30" width="40" /></a>
 </p>
